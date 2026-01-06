@@ -1,0 +1,11 @@
+.page-box {
+    max-width: 1100px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 6px;
+}
+
+.page-bg {
+    padding: 40px 0;
+}
